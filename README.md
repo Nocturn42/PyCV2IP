@@ -7,13 +7,6 @@
 | python              | 3.6.9                     |
 | opencv-python       | 4.2.0.32                  |
 
-# 安裝DCNv2 1.7
-## 下載DCNv2 1.7 by lbin
-    $ git clone https://github.com/lbin/DCNv2.git
-## 安裝DCNv2 (若無法安裝先刪除build資料夾)
-    $ cd DCNv2 
-    $ python3 setup.py build develop
-
 # Datasets & Models
 ## 須在 Swin_JDE/src/lib/opt.py 中以及各數據集json檔中修改數據集路徑
 ## 1.將FTP中的資料庫放入此資料夾
