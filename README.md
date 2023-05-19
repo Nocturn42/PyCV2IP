@@ -13,13 +13,6 @@
 
 ## kernel & gain
 ### 用來調整影像平滑及影像銳利化程度
-## 1.將FTP中的資料庫放入此資料夾
-### 1.1 從FTP中取得資料庫與訓練權重
-`實驗室成員 -> 冠宇 -> Datasets -> datasets.zip`
-`實驗室成員 -> 冠宇 -> Models -> models.zip`
-### 1.2 解壓縮 
-#### 將 datasets.zip & models.zip 放入 Swin_JDE中
-    $  unzip datasets.zip 
-    $  unzip models.zip 
+
 
 
