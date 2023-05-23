@@ -1,4 +1,6 @@
 # PyCV2IP
+### pytestApp.py ->主程式
+### CV2IP -> 使用到的OpenCV函式庫
 # 操作介面
 ## 功能
 | 按鈕                | 敘述                   |
